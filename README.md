@@ -2,3 +2,5 @@
 Capacity Planning of Computer Systems and Networks
 
 Presented by Prof Chun Tung Chou
+
+Code of project is written in sim.py, wrapper.py is a python program used to run and test sim.py.
